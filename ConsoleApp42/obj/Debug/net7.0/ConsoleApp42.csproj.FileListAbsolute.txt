@@ -1,0 +1,30 @@
+E:\Проги C#\ConsoleApp42\ConsoleApp42\bin\Debug\net7.0\ConsoleApp42.exe
+E:\Проги C#\ConsoleApp42\ConsoleApp42\bin\Debug\net7.0\ConsoleApp42.deps.json
+E:\Проги C#\ConsoleApp42\ConsoleApp42\bin\Debug\net7.0\ConsoleApp42.runtimeconfig.json
+E:\Проги C#\ConsoleApp42\ConsoleApp42\bin\Debug\net7.0\ConsoleApp42.dll
+E:\Проги C#\ConsoleApp42\ConsoleApp42\bin\Debug\net7.0\ConsoleApp42.pdb
+E:\Проги C#\ConsoleApp42\ConsoleApp42\obj\Debug\net7.0\ConsoleApp42.csproj.AssemblyReference.cache
+E:\Проги C#\ConsoleApp42\ConsoleApp42\obj\Debug\net7.0\ConsoleApp42.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проги C#\ConsoleApp42\ConsoleApp42\obj\Debug\net7.0\ConsoleApp42.AssemblyInfoInputs.cache
+E:\Проги C#\ConsoleApp42\ConsoleApp42\obj\Debug\net7.0\ConsoleApp42.AssemblyInfo.cs
+E:\Проги C#\ConsoleApp42\ConsoleApp42\obj\Debug\net7.0\ConsoleApp42.csproj.CoreCompileInputs.cache
+E:\Проги C#\ConsoleApp42\ConsoleApp42\obj\Debug\net7.0\ConsoleApp42.dll
+E:\Проги C#\ConsoleApp42\ConsoleApp42\obj\Debug\net7.0\refint\ConsoleApp42.dll
+E:\Проги C#\ConsoleApp42\ConsoleApp42\obj\Debug\net7.0\ConsoleApp42.pdb
+E:\Проги C#\ConsoleApp42\ConsoleApp42\obj\Debug\net7.0\ConsoleApp42.genruntimeconfig.cache
+E:\Проги C#\ConsoleApp42\ConsoleApp42\obj\Debug\net7.0\ref\ConsoleApp42.dll
+E:\Programms\ConsoleApp42\ConsoleApp42\bin\Debug\net7.0\ConsoleApp42.exe
+E:\Programms\ConsoleApp42\ConsoleApp42\bin\Debug\net7.0\ConsoleApp42.deps.json
+E:\Programms\ConsoleApp42\ConsoleApp42\bin\Debug\net7.0\ConsoleApp42.runtimeconfig.json
+E:\Programms\ConsoleApp42\ConsoleApp42\bin\Debug\net7.0\ConsoleApp42.dll
+E:\Programms\ConsoleApp42\ConsoleApp42\bin\Debug\net7.0\ConsoleApp42.pdb
+E:\Programms\ConsoleApp42\ConsoleApp42\obj\Debug\net7.0\ConsoleApp42.csproj.AssemblyReference.cache
+E:\Programms\ConsoleApp42\ConsoleApp42\obj\Debug\net7.0\ConsoleApp42.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programms\ConsoleApp42\ConsoleApp42\obj\Debug\net7.0\ConsoleApp42.AssemblyInfoInputs.cache
+E:\Programms\ConsoleApp42\ConsoleApp42\obj\Debug\net7.0\ConsoleApp42.AssemblyInfo.cs
+E:\Programms\ConsoleApp42\ConsoleApp42\obj\Debug\net7.0\ConsoleApp42.csproj.CoreCompileInputs.cache
+E:\Programms\ConsoleApp42\ConsoleApp42\obj\Debug\net7.0\ConsoleApp42.dll
+E:\Programms\ConsoleApp42\ConsoleApp42\obj\Debug\net7.0\refint\ConsoleApp42.dll
+E:\Programms\ConsoleApp42\ConsoleApp42\obj\Debug\net7.0\ConsoleApp42.pdb
+E:\Programms\ConsoleApp42\ConsoleApp42\obj\Debug\net7.0\ConsoleApp42.genruntimeconfig.cache
+E:\Programms\ConsoleApp42\ConsoleApp42\obj\Debug\net7.0\ref\ConsoleApp42.dll
